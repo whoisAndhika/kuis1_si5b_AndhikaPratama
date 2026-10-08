@@ -6,7 +6,7 @@ let menu = [
   { id: 5, nama: 'Matcha Latte', harga: 25000, kategori: 'Teh' },
   { id: 6, nama: 'Roti Bakar Cokelat', harga: 16000, kategori: 'Makanan' },
   { id: 7, nama: 'Kentang Goreng', harga: 18000, kategori: 'Makanan' },
-  { id: 8, nama: 'Es Jeruk', harga: 12000, kategori: 'Minuma' }
+  { id: 8, nama: 'Es Jeruk', harga: 12000, kategori: 'Minuman' }
 ];
 let nextId = 9;
 
